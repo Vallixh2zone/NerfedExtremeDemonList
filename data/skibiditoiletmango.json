@@ -1,1 +1,30 @@
-
+{
+    "id": 122526456,
+    "name": "Skibidi Toilet Mango",
+    "author": "vVallixx",
+    "creators": ["Joe rogan"],
+    "verifier": "wpopoff",
+    "verification": "https://www.youtube.com/watch?v=6dMjCa0nqK0&list=RD6dMjCa0nqK0&start_radio=1",
+    "percentToQualify": "99",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "diddyblud",
+            "link": "https://www.youtube.com/watch?v=6dMjCa0nqK0&list=RD6dMjCa0nqK0&start_radio=1"
+            "percent": 99,
+            "hz": 60
+        }
+    ]
+}
