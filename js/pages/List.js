@@ -100,6 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                    https://docs.google.com/document/d/1Qp-QlGBU0uS4ssh_F_cT69rTP7uhiGGsxJc_68AcZHM/edit?usp=sharing
                     </p>
                 </div>
             </div>
