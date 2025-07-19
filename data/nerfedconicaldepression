@@ -1,18 +1,15 @@
 {
-    "id": 123163086,
-    "name": "Nerfed Sakupen Circles",
+    "id": 123220627,
+    "name": "Nerfed Conical Depression",
     "author": "vVallixx",
-    "creators": ["vVallixx", "TheDiamondPizza"],
+    "creators": ["vVallixx", "Krmal"],
     "verifier": "vVallixx",
     "verification": "https://youtu.be/NixWFAQHlfA",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            
         }
     ]
 }
