@@ -1,1 +1,12 @@
-
+{
+    "id": placeholder#,
+    "name": "Nerfed Arctic Lights",
+    "author": "vh2L",
+    "creators": ["vh2L", "Metalface221"],
+    "verifier": "vh2L",
+    "verification": "link",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+    ]
+}
