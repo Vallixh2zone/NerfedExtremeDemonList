@@ -1,1 +1,12 @@
-
+{
+    "id": placeholder#,
+    "name": "Nerfed Bloodbath",
+    "author": "vVallixx",
+    "creators": ["vVallixx", "Riot"],
+    "verifier": "vVallixx",
+    "verification": "link",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+    ]
+}
