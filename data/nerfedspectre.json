@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Dionysus",
+            "link": "https://www.youtube.com/watch?v=-CgJ9nbMy7o",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
